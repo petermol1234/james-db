@@ -1,0 +1,21 @@
+{
+  "name": "james-pro/james-db",
+  "description": "PDO Wrapper",
+  "homepage": "https://jamespro.nl",
+  "type": "library",
+  "license": "proprietary",
+  "require": {
+    "php": "^8.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "JamesPro\\JamesDb\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "James PRO",
+      "homepage": "https://jamespro.nl"
+    }
+  ]
+}
